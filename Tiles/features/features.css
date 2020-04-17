@@ -1,0 +1,27 @@
+﻿div.feature {
+    padding: 10px 20px 10px 20px;
+}
+
+.feature h2 {
+    color: #ffffff;
+    font-size: 14pt;
+    line-height: 14pt;
+    transition: 1s;
+}
+
+.feature img.float_left {
+    float: left;
+    margin: 0 5px 5px 0;
+    height: 80px;
+}
+
+.feature .feature_detail p{
+    font-size: 10pt;
+    text-align: justify;
+}
+.feature p:hover{
+    color: black;
+    font-size:  10pt;
+    line-height: 14pt;
+    transform: scale(1.1);
+}
